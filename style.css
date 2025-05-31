@@ -1,0 +1,65 @@
+h1 {
+font-size :80px;
+text-align: center;
+color: blue;
+font-family: arial;
+
+}
+
+h2 {
+ text-align: center;
+ font-size: 50px;
+ color: red;
+ font-family: arial;
+ }
+
+body {
+background-color: white;
+}
+
+.container{
+    
+    height: 900px;
+
+
+}
+
+.image {
+    
+    width: 380px;
+    margin:20px;
+    float:left;
+     padding: 35px;
+
+
+}
+
+img {
+height : 250px;
+width: 360px;
+   
+    
+}
+
+
+
+.images {
+
+    display: flex;
+    flex-direction: column;
+
+}
+
+button{
+  color: white;  
+  background-color: green;
+  display: flex;
+  flex-direction: column;
+  margin:4px;
+  margin-left: 170px;
+  margin-top: 15px;
+  font-size: large;
+
+}
+
+
